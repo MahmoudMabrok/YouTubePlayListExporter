@@ -1,0 +1,11 @@
+
+{
+  "manifest_version": 2,
+  "name": "YouTubePlayListExporter",
+  "version": "1.0",
+  "description": "List all the videos in a YouTube playlist name and URL",
+  "browser_action": {
+    "default_popup": "index.html"
+  },
+  "permissions": ["activeTab", "tabs"]
+}
